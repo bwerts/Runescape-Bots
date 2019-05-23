@@ -25,10 +25,10 @@ Only works when standing in the location pictured below in tutorial island
 - Clicks on random location within a 60x50 pixel box on top of mining node
 - All mouse movements and reactive clicks have random speeds and times
 
-**Bata-Build**
+**Beta-Build**
 - **_Currently being developed_**
 
-**Bata-Goals**
+**Beta-Goals**
 - Able to mine tin, copper, and iron in the real game world
 - detects when bag is full and makes bank trips
 
